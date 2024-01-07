@@ -26,4 +26,7 @@
 <h3>Weather App Site</h3>
 <hr/>
 <a href="https://shivanisankar7.github.io/weather-app-1/">Click to visit the weather app</a>
+<h3>To Create a React app with Vite and deploy it on GitHub</h3>
+<hr/>
+<a href="https://medium.com/@badreddine.boudaoud21/create-a-react-app-with-vite-and-deploy-it-on-github-48b82e19f821">Click Here</a>
 
